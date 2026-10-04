@@ -40,14 +40,6 @@ addHead('The Journal!');
 addText('The Journal is a collection of documents written by an entity known as The Keeper, who logs all of the information found in the comics.');
 addText('Leave all stones turned. (\'>\')');
 
-addHead('The Discord!');
-
-addText('The Discord is a little invite to a server that allows you to chat with the creators of the content on this very website! The discord allows you to view changelogs, talk with other people, and more!');
-
-addText('If you would like to take a visit, go <a href="https://discord.gg/xxRvYERs48" class="link">here</a>!')
-
 addHead('The Credits!');
 
 addText('If you would like to see who helped out with the Metaventures world, go <a href="./journal/?p=credits" class="link">here</a>!');
-
-addText(`This website was made by Clarise, whos main website may be found <a href="../" class="link">here</a>!`);
